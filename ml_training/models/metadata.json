@@ -1,0 +1,24 @@
+{
+  "models": [
+    "structure_type",
+    "pit_depth",
+    "pit_length",
+    "pit_width",
+    "volume",
+    "cost"
+  ],
+  "feature_columns": [
+    "roof_area",
+    "household_size",
+    "groundwater_depth",
+    "sandy_percentage",
+    "loamy_percentage",
+    "clayey_percentage",
+    "rocky_percentage"
+  ],
+  "structure_types": [
+    "pit",
+    "shaft",
+    "trench"
+  ]
+}
